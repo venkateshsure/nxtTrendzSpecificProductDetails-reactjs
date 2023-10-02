@@ -1,0 +1,58 @@
+/* Write your CSS here */
+
+.con {
+  display: flex;
+  width: 90%;
+}
+
+.fir-con {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.product-image {
+  width: 500px;
+  height: 700px;
+}
+
+.sec-con {
+  display: flex;
+  flex-direction: column;
+  width: 60%;
+}
+
+.stock-con {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 20%;
+}
+
+.react-icons {
+  cursor: pointer;
+  outline: none;
+}
+
+.rating-con {
+  width: 10%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.add-to-cart {
+  background-color: #3b82f6;
+  color: #ffffff;
+  border: none;
+  cursor: pointer;
+  padding: 10px;
+}
+
+.hr {
+  width: 50%;
+  color: #1e293b;
+}
+
+.para {
+  color: #1e293b;
+}
